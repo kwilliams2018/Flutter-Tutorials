@@ -1,2 +1,2 @@
-# Azure Tutorials
-Placeholder for Azure tutorials
+# Azure Examples
+Placeholder for Azure examples
