@@ -1,2 +1,11 @@
-# Flutter-Tutorials
-This Repo contains multiple flutter projects, separated by category, that are created and built via my tutorial videos. You can view a list of my videos on my [website](https://kevinwilliams.dev/videos)
+# Flutter-Examples
+This Repo contains multiple flutter projects, separated by category, that are intended to serve as starting points for various tasks.
+
+# Examples:
+## Azure:
+
+## Firebase:
+
+## Google Cloud:
+
+## Docker:
