@@ -1,2 +1,3 @@
 # Azure Examples
-Placeholder for Azure examples
+## Azure AD Authentication (B2C)
+
